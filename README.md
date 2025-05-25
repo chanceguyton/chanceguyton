@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanceguyton
 - 👀 I’m interested in Product Management
 - 🌱 I’m currently learning about software development and its best practices
-- 💞️ I’m looking to collaborate on anything that would launch a product
+- 💞️ I’m looking to collaborate on any interesting products
 - 📫 How to reach me: on github or via linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a nationally ranked rock climber!
